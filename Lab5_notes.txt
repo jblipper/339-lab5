@@ -1,3 +1,16 @@
 -2275 = DAC voltage to stabilize at -5 degrees
 
 Band = range of values from setpoint temperature(max/min = band/2), so for example, band of 8 with setpoint = -5 = max is -1 and min is -9
+
+Exercise 3:
+- Peltier system has inherent non-linearity(there is a back voltage dependent on temperature differential (deltaV = S*deltaT)) that makes its responses different to linear graphs found in lab lecture(which are adapted to resistors).
+- ^ Good for discussion(but need sources)
+- The temperature always stays in the band range closest to starting temp(for ex, starting from -15 and going to -10 means temperature will fluctuate around -11 ish instead of lower)
+- -10(band 4.8): barely fluctuating(+-0.1degrees), difference of around -B/3 from setpoint
+- -10(band 3): barely fluctuating(+-0.15degrees), difference of around -B/3 from setpoint
+- -10(band 1): barely fluctuating(+-0.05degrees), difference of around -B/3 from setpoint, stabilizes longer than other bands
+- -10(band 8): barely fluctuating(0 degrees), difference of around -B/3 from setpoint, stabilizes faster, completely stable
+Band seems to be proportional to stability, 1 is not that stable and takes longer to settle, 8 stabilized completely 
+
+
+
