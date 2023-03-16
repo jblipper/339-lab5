@@ -1,0 +1,47 @@
+/PHYS 339 PID.settings/Output|expanded	True
+/PHYS 339 PID.settings/Output/DAC	-2000
+/PHYS 339 PID.settings/Output/DAC|expanded	True
+/PHYS 339 PID.settings/Loop Parameters|expanded	True
+/PHYS 339 PID.settings/Loop Parameters/Band	4.8
+/PHYS 339 PID.settings/Loop Parameters/Band|expanded	True
+/PHYS 339 PID.settings/Loop Parameters/Integral time	15.16
+/PHYS 339 PID.settings/Loop Parameters/Integral time|expanded	True
+/PHYS 339 PID.settings/Loop Parameters/Derivative time	23.42
+/PHYS 339 PID.settings/Loop Parameters/Derivative time|expanded	True
+/PHYS 339 PID.settings/Loop Parameters/Control Period	200.0
+/PHYS 339 PID.settings/Loop Parameters/Control Period|expanded	True
+/PHYS 339 PID.settings/Output/Temperature Setpoint	24.5
+/PHYS 339 PID.settings/Output/Temperature Setpoint|expanded	True
+/PHYS 339 PID.settings/DeBug|expanded	False
+/PHYS 339 PID.settings/DeBug/User Variables	True
+/PHYS 339 PID.settings/DeBug/User Variables|expanded	True
+/PHYS 339 PID.settings/Pulse|expanded	False
+/PHYS 339 PID.settings/Pulse/Type	'Square'
+/PHYS 339 PID.settings/Pulse/Type|expanded	True
+/PHYS 339 PID.settings/Pulse/Width	1.25
+/PHYS 339 PID.settings/Pulse/Width|expanded	True
+/PHYS 339 PID.settings/Pulse/Height	103
+/PHYS 339 PID.settings/Pulse/Height|expanded	True
+/PHYS 339 PID.settings/Pulse/Polarity	'Heat'
+/PHYS 339 PID.settings/Pulse/Polarity|expanded	True
+/PHYS 339 PID.settings/Settings/MAX31865|expanded	False
+/PHYS 339 PID.settings/Settings/MAX31865/Conversion Mode	'One-Shot'
+/PHYS 339 PID.settings/Settings/MAX31865/Conversion Mode|expanded	True
+/PHYS 339 PID.settings/Settings/MAX31865/Enable Bias	True
+/PHYS 339 PID.settings/Settings/MAX31865/Enable Bias|expanded	True
+/PHYS 339 PID.settings/Settings/MAX31865/Configuration register	'0b00010000'
+/PHYS 339 PID.settings/Settings/MAX31865/Configuration register|expanded	True
+/PHYS 339 PID.settings/Settings/MAX31865/Fault Check	True
+/PHYS 339 PID.settings/Settings/MAX31865/Fault Check|expanded	True
+/PHYS 339 PID.settings/Settings/Arduino|expanded	False
+/PHYS 339 PID.settings/Settings/Arduino/Temperature Calculation	'Polynomial'
+/PHYS 339 PID.settings/Settings/Arduino/Temperature Calculation|expanded	True
+/PHYS 339 PID.settings/Settings/GUI/Startup|expanded	True
+/PHYS 339 PID.settings/Settings/GUI/Startup/Loop Parameters	'Grap Arduino Defaults'
+/PHYS 339 PID.settings/Settings/GUI/Startup/Loop Parameters|expanded	True
+/PHYS 339 PID.settings/Settings/GUI/General|expanded	True
+/PHYS 339 PID.settings/Settings/GUI/General/Max Setpoint	80
+/PHYS 339 PID.settings/Settings/GUI/General/Max Setpoint|expanded	True
+/PHYS 339 PID.settings/Settings/GUI/General/Min Setpoint	-20
+/PHYS 339 PID.settings/Settings/GUI/General/Min Setpoint|expanded	True
+

@@ -1,0 +1,3 @@
+-2275 = DAC voltage to stabilize at -5 degrees
+
+Band = range of values from setpoint temperature(max/min = band/2), so for example, band of 8 with setpoint = -5 = max is -1 and min is -9
