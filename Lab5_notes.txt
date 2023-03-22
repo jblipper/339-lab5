@@ -12,5 +12,10 @@ Exercise 3:
 - -10(band 8): barely fluctuating(0 degrees), difference of around -B/3 from setpoint, stabilizes faster, completely stable
 Band seems to be proportional to stability, 1 is not that stable and takes longer to settle, 8 stabilized completely 
 
+Exercise 4:
+- Integral response time was optimized to a range of 30-60s, ALL DATA WAS TAKEN AT 30 SECONDS!!
+- When reaching near temperature, proportional control undershoots by ~ 0.5C before stabilizing back up again(something to discuss)
+
+
 
 
