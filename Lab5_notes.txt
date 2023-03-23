@@ -21,6 +21,15 @@ Exercise 6 (Originality):
 - Band width at 4.8 degrees C for all trials
 - Control period 200 ms for all trials
 - For 45 positive, higher derivative times cause larger osscilations
+- For -10 positive, higher derivative times cause large oscillations and temperature does not get to set point (100s and 120s derivative time)
+- For negative derivative term, it had a destabilizing effect especially at high derivative times. 
+- Lower derivative times were tested for negative derivative term, since the vast majority of the range tested for positive derivative times would never stabilize.
+- At derivative time of 8s for 45, the temperature still stabilizes but very slowly and there are still many oscillations (8s seems to be a critical point for stabilization)
+- critical point is a bit higher for -10, 10s still stabilizes but 
+- similar behavior overall for both temperatures
+- negative derivative term seems to stay at maximum output deep into the band compared to the other trials
+
+
 
 
 
