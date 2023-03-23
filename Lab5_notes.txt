@@ -20,6 +20,7 @@ Exercise 6 (Originality):
 - Integral time 30 seconds for all trials
 - Band width at 4.8 degrees C for all trials
 - Control period 200 ms for all trials
+- For 45 positive, higher derivative times cause larger osscilations
 
 
 
